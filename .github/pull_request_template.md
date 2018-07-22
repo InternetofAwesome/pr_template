@@ -1,1 +1,3 @@
 - [ ] Do stuff
+- [ ] Make coffee
+- [ ] Drink beer
